@@ -1,0 +1,14 @@
+table {
+  margin-top: 150px;
+  color: white;
+}
+
+table td {
+  padding: 15px;
+}
+
+#qr-download canvas {
+  cursor: pointer !important;
+  width: 50px !important;
+  height: 50px !important;
+}
