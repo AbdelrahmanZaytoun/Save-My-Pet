@@ -1,0 +1,9 @@
+.form-container p {
+  color: #fff;
+  font-size: 13px;
+  margin-top: 35px;
+}
+.form-container p a {
+  cursor: pointer;
+  text-decoration: underline;
+}
